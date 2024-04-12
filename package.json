@@ -1,8 +1,8 @@
 {
-  "name": "particle-botanix-demo",
+  "name": "particle-simplified-btc-connect-demo",
   "version": "1.0.0",
   "type": "module",
-  "description": "Demo application for showcasing the implementation of BTC Connect (by Particle Network) on Botanix (a Bitcoin Layer-2).",
+  "description": "Simple demo application for showcasing the implementation of BTC Connect (by Particle Network).",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
